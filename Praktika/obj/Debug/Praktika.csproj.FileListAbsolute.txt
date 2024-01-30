@@ -1,0 +1,17 @@
+C:\Users\Kristupas\OneDrive\Desktop\Mokslai\Praktika\Praktika\bin\Debug\uaDB.mdf
+C:\Users\Kristupas\OneDrive\Desktop\Mokslai\Praktika\Praktika\bin\Debug\uaDB_log.ldf
+C:\Users\Kristupas\OneDrive\Desktop\Mokslai\Praktika\Praktika\bin\Debug\Praktika.exe.config
+C:\Users\Kristupas\OneDrive\Desktop\Mokslai\Praktika\Praktika\bin\Debug\Praktika.exe
+C:\Users\Kristupas\OneDrive\Desktop\Mokslai\Praktika\Praktika\bin\Debug\Praktika.pdb
+C:\Users\Kristupas\OneDrive\Desktop\Mokslai\Praktika\Praktika\obj\Debug\Praktika.csproj.AssemblyReference.cache
+C:\Users\Kristupas\OneDrive\Desktop\Mokslai\Praktika\Praktika\obj\Debug\Praktika.frm_add_user.resources
+C:\Users\Kristupas\OneDrive\Desktop\Mokslai\Praktika\Praktika\obj\Debug\Praktika.frm_login.resources
+C:\Users\Kristupas\OneDrive\Desktop\Mokslai\Praktika\Praktika\obj\Debug\Praktika.frm_home.resources
+C:\Users\Kristupas\OneDrive\Desktop\Mokslai\Praktika\Praktika\obj\Debug\Praktika.Properties.Resources.resources
+C:\Users\Kristupas\OneDrive\Desktop\Mokslai\Praktika\Praktika\obj\Debug\Praktika.csproj.GenerateResource.cache
+C:\Users\Kristupas\OneDrive\Desktop\Mokslai\Praktika\Praktika\obj\Debug\Praktika.csproj.CoreCompileInputs.cache
+C:\Users\Kristupas\OneDrive\Desktop\Mokslai\Praktika\Praktika\obj\Debug\Praktika.exe
+C:\Users\Kristupas\OneDrive\Desktop\Mokslai\Praktika\Praktika\obj\Debug\Praktika.pdb
+C:\Users\Kristupas\OneDrive\Desktop\Mokslai\Praktika\Praktika\obj\Debug\Praktika.frm_student.resources
+C:\Users\Kristupas\OneDrive\Desktop\Mokslai\Praktika\Praktika\obj\Debug\Praktika.frm_grades.resources
+C:\Users\Kristupas\OneDrive\Desktop\Mokslai\Praktika\Praktika\obj\Debug\Praktika.frm_sgrades.resources
